@@ -1,2 +1,2 @@
-# NweRepo
+# NewRepo
 This is my first Git Repository.
